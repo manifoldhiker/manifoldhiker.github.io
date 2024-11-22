@@ -1,3 +1,7 @@
+layout: post
+title: "Wait a second.. But what \"Information\" really is?"
+date: 2024-11-22
+
 My intuition
 
 - ether of communication?
